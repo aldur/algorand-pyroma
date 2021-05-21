@@ -20,7 +20,7 @@
 ### Writing (`algod`) and reading (`indexer`) from the blockchain.
 
 ```python
-# Source from ~/Work/pyroma/connect.py
+# Source from ./connect.py
 ```
 
 ### Creating an account
@@ -29,7 +29,7 @@
   - Key table and _rekyeing_.
 
 ```python
-# Source from ~/Work/pyroma/account.py
+# Source from ./account.py
 ```
 
 ### Funding the account
@@ -49,7 +49,7 @@ you just funded 💰.
 ### First transaction (with note ✍️)
 
 ```python
-# Source from ~/Work/pyroma/tx.py
+# Source from ./tx.py
 ```
 
 ### Reading transactions
@@ -60,7 +60,7 @@ you just funded 💰.
 - From Python, we can use the _indexer_.
 
 ```python
-# Source from ~/Work/pyroma/search.py
+# Source from ./search.py
 ```
 
 ### A first smart contract
@@ -69,7 +69,7 @@ you just funded 💰.
 - Let's look at simple smart contract (and TEAL!)
 
 ```python
-# Source from ~/Work/pyroma/stateless.py
+# Source from ./stateless.py
 ```
 
 ### There's a lot more!
