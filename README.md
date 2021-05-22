@@ -1,6 +1,6 @@
 # PyRoma <> Algorand
 
-## Introduction to blockchain and Algorand:
+## Introduction to blockchain and Algorand [(slide-deck)](https://docs.google.com/presentation/d/1IJKW9wyQoL9Lj_nboXCXL9znQVk1PUS0_X0KKv9Zi_k/edit?usp=sharing):
 
 - Distributed systems and replicated storage.
 - Pure Proof of Stake (and green! 🪴) vs Proof of Work.
